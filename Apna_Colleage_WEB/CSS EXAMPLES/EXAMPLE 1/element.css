@@ -1,0 +1,56 @@
+p,a {
+    color: greenyellow
+}
+
+li {
+    list-style-type: square;
+}
+
+.neru {
+    color: orangered ;
+    font-weight: bold;
+} 
+
+span.neru, li.neru {
+    color: pink
+}
+
+li em {
+    color: purple
+}
+
+h1+p {
+    font-size: 200%;
+}
+
+a:hover{
+    color: brown;
+    text-decoration: none;
+}
+
+/* body h1+p .neru {
+    color: yellow;
+    background-color: black;
+    padding: 5px;
+} */
+
+#heading {
+    color: red;
+    background-color: black;
+}
+
+p#one {
+    color:greenyellow
+}
+
+li[class] {
+    font-size: 300%;
+}
+
+li[class="a"]{
+    color: royalblue
+}
+
+/* li[class~="a"]{
+    color: royalblue
+} */

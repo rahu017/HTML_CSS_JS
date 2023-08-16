@@ -1,0 +1,22 @@
+Emmet : https://docs.emmet.io/cheat-sheet/
+ENTITIES :
+	Display reserved characters in HTML (Example: <&entity_name;>,<&#entity_number;> : https://www.w3schools.com/charsets/ref_html_entities_4.asp
+Types OF URL : 	1) Absolute : root/folder1/folder2/destination.html
+				2) Relative : Current FIle/target_folder/destination.html
+	#> Moving into the File Location
+		1. 	Moving into the folders
+				Goal=index.html(Current File) to main.css(Target File)
+					URL: "/CSS/main.CSS"
+		2. 	Files in the same folder
+				Goal=index.html(Current File) to plesiosaurs.html(Target File)
+				Name of the target file
+					URL: "plesiosaurs.html" or "./plesiosaurs.html"
+		3. Moving out of the Folders
+				Goal=apatosaurus.html(Current File) to pterosaurus.com(Target File) 
+					URL: "../pterosaurus.html" <../--> To move out of the folder>
+					
+					
+					
+					
+			
+	
